@@ -6,3 +6,6 @@ let notANumber=NaN;
 
 console.log(integer);
 console.log(float);
+console.log(1/0);
+console.log(-1/0);
+console.log("문자"/2)
